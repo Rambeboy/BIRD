@@ -1,7 +1,7 @@
 function printBanner() {
   console.log("========== BirdTON BOT ==========");
-  console.log("GitHub: https://github.com/Galkurta");
-  console.log("Telegram: https://t.me/galkurtarchive");
+ console.log("       Created by Nofan Rambe     ");
+  console.log("Github: https://github.com/Rambeboy");
   console.log("=================================");
 }
 module.exports = printBanner;
