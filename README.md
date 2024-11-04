@@ -1,4 +1,4 @@
-# BirdTON Bot
+# BirdTON BOT
 
 An automated bot for playing BirdTON game on Telegram. This bot helps automate the gameplay process while handling boost upgrades and energy management efficiently.
 
