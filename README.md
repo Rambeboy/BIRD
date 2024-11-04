@@ -24,8 +24,8 @@ Before running the bot, make sure you have the following installed:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Galkurta/Bird-BOT.git
-cd Bird-BOT
+git clone https://github.com/Rambeboy/BIRD.git
+cd BIRD
 ```
 
 2. Install dependencies:
@@ -36,7 +36,7 @@ npm install
 
 ## Registration
 
-1. Register [BirdTON](https://t.me/BIRDTonBot/app?startapp=6944804952)
+1. Register [BirdTON](https://t.me/BIRDTonBot/app?startapp=6896240442)
 
 2. After registration, copy your initialization data (you'll see this in the Telegram web app URL after you start the game).
 
